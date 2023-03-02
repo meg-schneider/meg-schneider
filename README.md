@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy 👋
+
+👩🏻‍💻 My name is Meg, and I live in NYC.
+💫 I'm jazzed about building cool things
+🤓 and I love learning!
 
 <!--
 **meg-schneider/meg-schneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
