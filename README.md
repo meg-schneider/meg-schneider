@@ -1,7 +1,9 @@
 ### Howdy 👋
 
-👩🏻‍💻 My name is Meg, and I live in NYC.
+👩🏻‍💻 My name is Meg, and I live in NYC. 
+
 💫 I'm jazzed about building cool things
+
 🤓 and I love learning!
 
 <!--
