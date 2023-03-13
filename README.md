@@ -4,7 +4,7 @@
 
 💫  I'm jazzed about building cool things
 
-🤓  and I love learning!
+🤓  and I love working with other driven engineers!
 
 <!--
 **meg-schneider/meg-schneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
