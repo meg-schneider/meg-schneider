@@ -1,4 +1,4 @@
-### Howdy 👋
+### Howdy 👋 🤠
 
 👩🏻‍💻  My name is Meg, and I live in NYC. 
 
